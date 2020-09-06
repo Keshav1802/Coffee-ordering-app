@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee ordering app</string>
+    <string name="Thank_You">Gracias!</string>
+    <string name="Toppings">Ingredientes</string>
+    <string name="Order_Summary_Name">Nombre de resumen del pedido</string>
+</resources>
